@@ -1,0 +1,2 @@
+brilho=30
+gama=1.0
