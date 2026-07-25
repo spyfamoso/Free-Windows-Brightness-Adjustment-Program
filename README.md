@@ -4,6 +4,8 @@ It allows you to adjust brightness—even going below the monitor's minimum sett
 
 It works very simply: it starts automatically with Windows, and to open it, you just right-click its icon in the system tray and select "Abrir controle." Once you've configured your settings and closed the window, it saves the changes and runs hidden in the background.
 
+The executable is located inside the "dist" folder and is named "brilho".
+
 I made it in Brazilian Portuguese, so I hope you can understand it; I used ChatGPT to create it.
 
 <img width="472" height="248" alt="Captura de tela 2026-07-25 151953" src="https://github.com/user-attachments/assets/24e3baed-cfdc-43f3-b7ea-2856e2912fcc" />
