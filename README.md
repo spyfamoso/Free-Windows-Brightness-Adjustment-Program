@@ -13,6 +13,7 @@ I made it in Brazilian Portuguese, so I hope you can understand it; I used ChatG
 <img width="349" height="256" alt="Captura de tela 2026-07-25 152006" src="https://github.com/user-attachments/assets/f78ad9a6-c525-4146-876c-8fdf3cf4dbd0" />
 
 
+===============================================================================================================================================================================================================================
 
 
 <img width="663" height="282" alt="Captura de tela 2026-07-25 153211" src="https://github.com/user-attachments/assets/c1794214-74ed-4967-b132-d815e7749ca2" />
@@ -23,7 +24,7 @@ I made it in Brazilian Portuguese, so I hope you can understand it; I used ChatG
 <img width="675" height="79" alt="Captura de tela 2026-07-25 153227" src="https://github.com/user-attachments/assets/14699423-5031-4c2e-a5f6-477b925454db" />
 
 
-
+===============================================================================================================================================================================================================================
 
 
 Thank you, everyone.
