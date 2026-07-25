@@ -19,8 +19,9 @@ I made it in Brazilian Portuguese, so I hope you can understand it; I used ChatG
 
 
 
+<img width="675" height="79" alt="Captura de tela 2026-07-25 153227" src="https://github.com/user-attachments/assets/e24ac36c-6b47-4d69-905b-0b7f64633d8f" />
 
-<img width="675" height="79" alt="Captura de tela 2026-07-25 153227" src="https://github.com/user-attachments/assets/3ff0eb70-e0cb-4558-b41e-990a47c50a81" />
+
 
 
 Thank you, everyone.
