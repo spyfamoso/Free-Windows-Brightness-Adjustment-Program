@@ -26,7 +26,7 @@ I made it in Brazilian Portuguese, so I hope you can understand it; I used ChatG
 <img width="675" height="79" alt="Captura de tela 2026-07-25 153227" src="https://github.com/user-attachments/assets/14699423-5031-4c2e-a5f6-477b925454db" />
 
 
-=============================================================================================
+============================================================================================
 
 
 Thank you, everyone.
