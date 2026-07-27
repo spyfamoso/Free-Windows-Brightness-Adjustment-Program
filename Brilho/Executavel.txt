@@ -1,0 +1,1 @@
+py -m PyInstaller --noconsole --onefile --icon=bird.ico --add-data "icone.png;." brilho.pyw

@@ -8,6 +8,7 @@ import os
 import sys
 import winreg
 import time
+import win32gui
 
 
 # ==========================
@@ -249,20 +250,31 @@ def restaurar():
 # MANTER EFEITO NO JOGO
 # ==========================
 
-def manter_brilho():
+def monitorar_janela():
+
+    ultima_janela = None
 
     while True:
 
         try:
-            aplicar_configuracao()
+            janela_atual = win32gui.GetForegroundWindow()
 
-        except Exception:
+            if janela_atual != ultima_janela:
+
+                ultima_janela = janela_atual
+
+                # aplica imediatamente
+                aplicar_configuracao()
+
+                # aplica novamente após o jogo terminar de configurar a tela
+                time.sleep(0.35)
+
+                aplicar_configuracao()
+
+        except:
             pass
 
-
-        # reaplica a cada 0.2 segundos
-        time.sleep(0.2)
-
+        time.sleep(0.5)
 
 
 # ==========================
@@ -449,7 +461,7 @@ aplicar_configuracao()
 # Mantém brilho/gama funcionando em jogos
 
 threading.Thread(
-    target=manter_brilho,
+    target=monitorar_janela,
     daemon=True
 ).start()
 
