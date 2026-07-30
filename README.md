@@ -8,8 +8,6 @@ It works very simply: it starts automatically with Windows, and to open it, you 
 
 The executable is located inside the "dist" folder and is named "brilho", or in release v1.0
 
-it can also be low at launch
-
 I made it in Brazilian Portuguese, so I hope you can understand it; I used ChatGPT to create it.
 
 ============================================================================================
