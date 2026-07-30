@@ -1,3 +1,5 @@
+[Open-Source Program]
+
 I was fed up with terrible free brightness adjustment programs, so I made my own.
 
 It allows you to adjust brightness—even going below the monitor's minimum setting—and includes gamma adjustment for very dark monitors.
